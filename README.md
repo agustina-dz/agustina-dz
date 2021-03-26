@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agustina
 - 🌎 I’m from Buenos Aires, Argentina!
-- 🌱 I’m currently learning HTML, CSS and JS (little by little with this one 😅)
+- 🌱 I’m currently learning HTML, CSS, and JS (little by little with this one 😅)
 - 📚 I’m just trying to get better at this and learn as much as I can!
 
 <!---
