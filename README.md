@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agustina
 - 🌎 I’m from Buenos Aires, Argentina!
 - 🌱 I’m currently studying Web Development (Full Stack - PHP)
-- 📚 I’m just trying to get better at this and learn as much as I can!
+- 📚 I’m trying to get better at this and learn as much as I can!
 
 <!---
 agustina-dz/agustina-dz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
